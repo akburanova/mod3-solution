@@ -1,0 +1,51 @@
+a.navbar-brand{
+	font-size:3em;
+	font-family: Baloo Paaji;
+	color: black;
+}
+div.navbar-collapse{
+	padding: 0px;
+}
+ul#nav-list{
+	border: 1px solid black;
+	margin: 0px;
+}
+#nav-list a{
+  text-align: center;
+  border: 1px solid black;
+  font-size: 1.5em;
+  font-family: Baloo Paaji;
+  color: black;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+p.text-center{
+	font-size: 3em;
+	color: black;
+	font-family: Baloo Paaji;
+}
+
+#text{
+	padding: 10px;
+	margin: 10px;
+	background-color: lightpink;
+	height: 1000px;
+}
+
+div.container.col-xs-12{
+	width:100%;
+	padding: 5px;
+	margin: 0px;
+}
+#nav-list{
+	background-color: yellow;
+}
+#text span{
+	display: block;
+    text-align: center;
+	font-size: 2em;
+	font-family: Baloo Paaji;
+	color: black;
+}
